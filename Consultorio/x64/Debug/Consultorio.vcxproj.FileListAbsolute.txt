@@ -1,0 +1,13 @@
+C:\Users\MSIcito\source\repos\Consultorio\x64\Debug\FontAwesome.Sharp.dll
+C:\Users\MSIcito\source\repos\Consultorio\Consultorio\x64\Debug\Consultorio.vcxproj.AssemblyReference.cache
+C:\Users\MSIcito\source\repos\Consultorio\Consultorio\x64\Debug\Consultorio.AddGood.resources
+C:\Users\MSIcito\source\repos\Consultorio\Consultorio\x64\Debug\Consultorio.AtePacientes.resources
+C:\Users\MSIcito\source\repos\Consultorio\Consultorio\x64\Debug\Consultorio.Base.resources
+C:\Users\MSIcito\source\repos\Consultorio\Consultorio\x64\Debug\Consultorio.ConsNexPaciente.resources
+C:\Users\MSIcito\source\repos\Consultorio\Consultorio\x64\Debug\Consultorio.Gestion.resources
+C:\Users\MSIcito\source\repos\Consultorio\Consultorio\x64\Debug\Consultorio.MyForm.resources
+C:\Users\MSIcito\source\repos\Consultorio\Consultorio\x64\Debug\Consultorio.Rebote.resources
+C:\Users\MSIcito\source\repos\Consultorio\Consultorio\x64\Debug\Consultorio.RegPacientes.resources
+C:\Users\MSIcito\source\repos\Consultorio\Consultorio\x64\Debug\Consultorio.Visita.resources
+C:\Users\MSIcito\source\repos\Consultorio\Consultorio\x64\Debug\Consultorio.vcxproj.GenerateResource.cache
+C:\Users\MSIcito\source\repos\Consultorio\Consultorio\x64\Debug\Consulto.11CECBD2.Up2Date

@@ -1,0 +1,482 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Pacientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Pacientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AtePacientes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:AtePacientes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AddGood.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:AddGood.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AtePacientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:AtePacientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AddGood.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:AddGood.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\RegPacientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:RegPacientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\RegPacientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:RegPacientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Visita.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Visita.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Visita.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Visita.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Conector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Conector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Rebote.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Rebote.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AddGood.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:AddGood.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Rebote.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Rebote.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\ConsNexPaciente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:ConsNexPaciente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AtePacientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:AtePacientes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Gestion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Gestion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\ConsNexPaciente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:ConsNexPaciente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Gestion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Gestion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Gestion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Gestion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\RegPacientes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:RegPacientes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Conector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Conector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Rebote.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694FCBAC-7503-4AB0-8D75-462EEB54C44D}|Consultorio.vcxproj|solutionrelative:Rebote.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Base.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Base.h",
+              "RelativeDocumentMoniker": "Base.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Base.h [Dise\u00F1o]*",
+              "RelativeToolTip": "Base.h [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-07T00:26:06.661Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\MyForm.h",
+              "RelativeToolTip": "MyForm.h",
+              "ViewState": "AgIAALUBAAAAAAAAAAAwwNMBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T12:44:09.355Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pacientes.h",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Pacientes.h",
+              "RelativeDocumentMoniker": "Pacientes.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Pacientes.h",
+              "RelativeToolTip": "Pacientes.h",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAMsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T12:38:05.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddGood.cpp",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AddGood.cpp",
+              "RelativeDocumentMoniker": "AddGood.cpp",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AddGood.cpp",
+              "RelativeToolTip": "AddGood.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T02:08:06.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Base.cpp",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Base.cpp",
+              "RelativeDocumentMoniker": "Base.cpp",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Base.cpp",
+              "RelativeToolTip": "Base.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T02:08:04.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegPacientes.h",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\RegPacientes.h",
+              "RelativeDocumentMoniker": "RegPacientes.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\RegPacientes.h*",
+              "RelativeToolTip": "RegPacientes.h*",
+              "ViewState": "AgIAABMFAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T21:27:32.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Visita.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Visita.h",
+              "RelativeDocumentMoniker": "Visita.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Visita.h [Dise\u00F1o]*",
+              "RelativeToolTip": "Visita.h [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T11:55:19.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtePacientes.cpp",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AtePacientes.cpp",
+              "RelativeDocumentMoniker": "AtePacientes.cpp",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AtePacientes.cpp",
+              "RelativeToolTip": "AtePacientes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T18:52:29.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Base.h",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Base.h",
+              "RelativeDocumentMoniker": "Base.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Base.h*",
+              "RelativeToolTip": "Base.h*",
+              "ViewState": "AgIAADUCAAAAAAAAAAAAAE0CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-07T01:19:00.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Visita.h",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Visita.h",
+              "RelativeDocumentMoniker": "Visita.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Visita.h*",
+              "RelativeToolTip": "Visita.h*",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T15:54:14.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddGood.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AddGood.h",
+              "RelativeDocumentMoniker": "AddGood.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AddGood.h [Dise\u00F1o]",
+              "RelativeToolTip": "AddGood.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T02:26:23.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AtePacientes.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AtePacientes.h",
+              "RelativeDocumentMoniker": "AtePacientes.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AtePacientes.h [Dise\u00F1o]*",
+              "RelativeToolTip": "AtePacientes.h [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T23:12:20.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegPacientes.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\RegPacientes.h",
+              "RelativeDocumentMoniker": "RegPacientes.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\RegPacientes.h [Dise\u00F1o]*",
+              "RelativeToolTip": "RegPacientes.h [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T22:17:01.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Conector.h",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Conector.h",
+              "RelativeDocumentMoniker": "Conector.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Conector.h",
+              "RelativeToolTip": "Conector.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwDwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T15:39:31.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyForm.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\MyForm.h [Dise\u00F1o]",
+              "RelativeToolTip": "MyForm.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T12:43:04.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rebote.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Rebote.h",
+              "RelativeDocumentMoniker": "Rebote.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Rebote.h [Dise\u00F1o]",
+              "RelativeToolTip": "Rebote.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T01:27:09.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddGood.h",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AddGood.h",
+              "RelativeDocumentMoniker": "AddGood.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AddGood.h",
+              "RelativeToolTip": "AddGood.h",
+              "ViewState": "AgIAADYAAAAAAAAAAAAewGkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T02:45:31.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AtePacientes.h",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AtePacientes.h",
+              "RelativeDocumentMoniker": "AtePacientes.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\AtePacientes.h*",
+              "RelativeToolTip": "AtePacientes.h*",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAANkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T12:22:17.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Rebote.cpp",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Rebote.cpp",
+              "RelativeDocumentMoniker": "Rebote.cpp",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Rebote.cpp",
+              "RelativeToolTip": "Rebote.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T01:05:54.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConsNexPaciente.h",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\ConsNexPaciente.h",
+              "RelativeDocumentMoniker": "ConsNexPaciente.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\ConsNexPaciente.h",
+              "RelativeToolTip": "ConsNexPaciente.h",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T23:00:35.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Gestion.h",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Gestion.h",
+              "RelativeDocumentMoniker": "Gestion.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Gestion.h",
+              "RelativeToolTip": "Gestion.h",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T12:57:08.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConsNexPaciente.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\ConsNexPaciente.h",
+              "RelativeDocumentMoniker": "ConsNexPaciente.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\ConsNexPaciente.h [Dise\u00F1o]",
+              "RelativeToolTip": "ConsNexPaciente.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T22:17:45.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Gestion.cpp",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Gestion.cpp",
+              "RelativeDocumentMoniker": "Gestion.cpp",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Gestion.cpp",
+              "RelativeToolTip": "Gestion.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T18:52:21.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Gestion.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Gestion.h",
+              "RelativeDocumentMoniker": "Gestion.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Gestion.h [Dise\u00F1o]",
+              "RelativeToolTip": "Gestion.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T22:18:03.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegPacientes.cpp",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\RegPacientes.cpp",
+              "RelativeDocumentMoniker": "RegPacientes.cpp",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\RegPacientes.cpp",
+              "RelativeToolTip": "RegPacientes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T15:37:19.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Conector.cpp",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Conector.cpp",
+              "RelativeDocumentMoniker": "Conector.cpp",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Conector.cpp",
+              "RelativeToolTip": "Conector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T15:40:19.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\MyForm.cpp",
+              "RelativeDocumentMoniker": "MyForm.cpp",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\MyForm.cpp",
+              "RelativeToolTip": "MyForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T18:52:23.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Rebote.h",
+              "DocumentMoniker": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Rebote.h",
+              "RelativeDocumentMoniker": "Rebote.h",
+              "ToolTip": "C:\\Users\\MSIcito\\source\\repos\\Consultorio\\Rebote.h",
+              "RelativeToolTip": "Rebote.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T13:25:58.242Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

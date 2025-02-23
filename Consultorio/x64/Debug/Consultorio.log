@@ -1,0 +1,44 @@
+﻿  Base.cpp
+C:\Users\MSIcito\source\repos\Consultorio\RegPacientes.h(1641,20): warning C4244: 'argumento': conversión de '__int64' a 'long'; posible pérdida de datos
+  (compilando archivo de origen "Base.cpp")
+  
+C:\Users\MSIcito\source\repos\Consultorio\RegPacientes.h(1709,20): warning C4244: 'argumento': conversión de '__int64' a 'long'; posible pérdida de datos
+  (compilando archivo de origen "Base.cpp")
+  
+C:\Users\MSIcito\source\repos\Consultorio\RegPacientes.h(1739,20): warning C4244: 'argumento': conversión de '__int64' a 'long'; posible pérdida de datos
+  (compilando archivo de origen "Base.cpp")
+  
+C:\Users\MSIcito\source\repos\Consultorio\RegPacientes.h(1775,38): warning C4244: 'argumento': conversión de '__int64' a 'long'; posible pérdida de datos
+  (compilando archivo de origen "Base.cpp")
+  
+C:\Users\MSIcito\source\repos\Consultorio\RegPacientes.h(1791,69): warning C4244: 'argumento': conversión de '__int64' a 'long'; posible pérdida de datos
+  (compilando archivo de origen "Base.cpp")
+  
+C:\Users\MSIcito\source\repos\Consultorio\RegPacientes.h(1791,39): warning C4244: 'argumento': conversión de '__int64' a 'long'; posible pérdida de datos
+  (compilando archivo de origen "Base.cpp")
+  
+C:\Users\MSIcito\source\repos\Consultorio\Visita.h(158,67): warning C4244: 'argumento': conversión de '__int64' a 'long'; posible pérdida de datos
+  (compilando archivo de origen "Base.cpp")
+  
+  RegPacientes.cpp
+C:\Users\MSIcito\source\repos\Consultorio\RegPacientes.h(1641,20): warning C4244: 'argumento': conversión de '__int64' a 'long'; posible pérdida de datos
+  (compilando archivo de origen "RegPacientes.cpp")
+  
+C:\Users\MSIcito\source\repos\Consultorio\RegPacientes.h(1709,20): warning C4244: 'argumento': conversión de '__int64' a 'long'; posible pérdida de datos
+  (compilando archivo de origen "RegPacientes.cpp")
+  
+C:\Users\MSIcito\source\repos\Consultorio\RegPacientes.h(1739,20): warning C4244: 'argumento': conversión de '__int64' a 'long'; posible pérdida de datos
+  (compilando archivo de origen "RegPacientes.cpp")
+  
+C:\Users\MSIcito\source\repos\Consultorio\RegPacientes.h(1775,38): warning C4244: 'argumento': conversión de '__int64' a 'long'; posible pérdida de datos
+  (compilando archivo de origen "RegPacientes.cpp")
+  
+C:\Users\MSIcito\source\repos\Consultorio\RegPacientes.h(1791,69): warning C4244: 'argumento': conversión de '__int64' a 'long'; posible pérdida de datos
+  (compilando archivo de origen "RegPacientes.cpp")
+  
+C:\Users\MSIcito\source\repos\Consultorio\RegPacientes.h(1791,39): warning C4244: 'argumento': conversión de '__int64' a 'long'; posible pérdida de datos
+  (compilando archivo de origen "RegPacientes.cpp")
+  
+  Generando código...
+  AddGood.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Consultorio.vcxproj -> C:\Users\MSIcito\source\repos\Consultorio\x64\Debug\Consultorio.exe
